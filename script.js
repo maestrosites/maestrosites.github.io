@@ -9,7 +9,7 @@ var guys = {
     holmeren: "http://steamcommunity.com/profiles/76561198313582925",
     nath: "http://steamcommunity.com/profiles/76561198290112488",
     atsuki: "http://steamcommunity.com/profiles/76561198268673985",
-    Anon: "http://steamcommunity.com/profiles/76561198359910180",
+    anon: "http://steamcommunity.com/profiles/76561198359910180",
 	ollie: "http://steamcommunity.com/profiles/76561198368527533"
   },
   links = {
