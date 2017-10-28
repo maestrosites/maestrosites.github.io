@@ -1,15 +1,15 @@
 $(document).ready(function() {
     var plinks = [
        	       	{
-            name: 'Lolzy',
+            name: 'lolzy',
             plink: 'http://steamcommunity.com/profiles/76561198106147426'
         },
 		{
-            name: 'Cha',
+            name: 'cha',
             plink: 'http://steamcommunity.com/profiles/76561198249090462'
        },       
 	   {
-            name: 'Atsuki',
+            name: 'atsuki',
             plink: 'http://steamcommunity.com/profiles/76561198268673985'
         },
 		{
@@ -17,7 +17,7 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/profiles/76561197963292002'
 		},
         {
-            name: 'Ollie',
+            name: 'ollie',
             plink: 'http://steamcommunity.com/profiles/76561198218496005'
 			
         },
