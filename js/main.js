@@ -7,7 +7,11 @@ $(document).ready(function() {
 		{
             name: 'cha',
             plink: 'http://steamcommunity.com/profiles/76561198249090462'
-       },       
+         },
+		{
+            name: 'legacy',
+            plink: 'http://steamcommunity.com/profiles/76561198178841609'
+	   },       
 	   {
             name: 'atsuki',
             plink: 'http://steamcommunity.com/profiles/76561198268673985'
