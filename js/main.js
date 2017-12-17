@@ -13,8 +13,8 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/profiles/76561198178841609'
 	   },       
 	   {
-            name: 'atsuki',
-            plink: 'http://steamcommunity.com/profiles/76561198268673985'
+            name: 'september',
+            plink: 'http://steamcommunity.com/profiles/76561198088889097'
         },
 		{
             name: 'sovereign',
