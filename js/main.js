@@ -22,7 +22,7 @@ $(document).ready(function() {
 		},
         {
             name: 'ollie',
-            plink: 'http://steamcommunity.com/profiles/76561198218496005'
+            plink: 'http://steamcommunity.com/profiles/76561198063429369'
 			
         },
 		];    
