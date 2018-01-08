@@ -1,8 +1,8 @@
 $(document).ready(function() {
     var plinks = [
        	       	{
-            name: 'lolzy',
-            plink: 'http://steamcommunity.com/profiles/76561198106147426'
+            name: 'spokzi',
+            plink: 'http://steamcommunity.com/profiles/76561198125512925'
         },
 		{
             name: 'jay',
