@@ -5,20 +5,20 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/profiles/76561198106147426'
         },
 		{
-            name: 'cha',
-            plink: 'http://steamcommunity.com/profiles/76561198249090462'
+            name: 'jay',
+            plink: 'http://steamcommunity.com/profiles/76561198333295965'
          },
 		{
             name: 'legacy',
             plink: 'http://steamcommunity.com/profiles/76561198178841609'
 	   },       
 	   {
-            name: 'september',
-            plink: 'http://steamcommunity.com/profiles/76561198088889097'
+            name: 'tofi',
+            plink: 'http://steamcommunity.com/profiles/76561198347667273'
         },
 		{
-            name: 'sovereign',
-            plink: 'http://steamcommunity.com/profiles/76561197963292002'
+            name: 'tanya',
+            plink: 'http://steamcommunity.com/profiles/76561198124088101'
 		},
         {
             name: 'ollie',
